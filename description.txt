@@ -1,0 +1,24 @@
+DỮ LIỆU THÔNG TIN CƠ BẢN CỦA KHÁCH SẢN 
+
+VARIABLE DESCRIPTIONS:
+
+Name			Tên khách sạn
+
+District		Quận; huyện của khách sạn
+	
+Star			Số sao của khách sạn
+
+RatingScore		Điểm đánh giá khách sạn
+	
+Num_ratings		Số người đánh giá khách sạn
+
+Price(VND)		Giá thuê phòng (1 đêm/2 người) của khách sạn
+	
+Pool			Hồ bơi 
+			(Yes; No)
+Parking			Chỗ đậu xe
+			(Yes; No)
+Restaurant		Nhà hàng
+			(Yes; No)
+
+

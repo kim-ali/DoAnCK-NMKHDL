@@ -1,0 +1,490 @@
+Name,District,Star,RatingScore,Num_ratings,Price(VND),Pool,Parking,Restaurant
+Angel Hotel Danang,Sơn Trà,3.0,8.6,287,162790,No,Yes,Yes
+Stella Maris Beach Danang,Sơn Trà,4.0,8.9,63,832500,No,Yes,Yes
+Khách sạn DLG Đà Nẵng,Sơn Trà,4.5,9.3,62,1026908,No,Yes,Yes
+San Marino Boutique Danang,Sơn Trà,4.0,9.0,212,600000,No,Yes,Yes
+Khách sạn Raon Danang Beach,Ngũ Hành Sơn,3.0,8.8,613,337920,No,No,Yes
+Paris Deli Danang Beach Hotel,Sơn Trà,4.0,8.9,129,887277,No,No,Yes
+Park Regis Cocobay,Ngũ Hành Sơn,0.0,0.0,0,847096,No,No,No
+Sea Sand Apartment & Hotel,Ngũ Hành Sơn,2.0,0.0,0,292500,No,Yes,No
+Haian Riverfront Hotel Da Nang.,Quận Hải Châu,4.0,0.0,0,860648,No,Yes,Yes
+Vinpearl Condotel Riverfront Da Nang,Sơn Trà,5.0,9.0,34,1219500,No,Yes,Yes
+Canvas Danang Beach Hotel,Sơn Trà,3.5,9.5,5,687500,No,Yes,Yes
+Mường Thanh Grand Đà Nẵng,Sơn Trà,4.0,8.4,716,838500,No,Yes,Yes
+Sala Danang Beach Hotel,Sơn Trà,4.0,8.9,132,720000,No,Yes,Yes
+Khách sạn Tarasa,Đà Nẵng,1.0,8.5,66,324000,No,Yes,Yes
+Khách sạn Maximilan Đà Nẵng,Sơn Trà,4.0,8.8,76,679800,No,Yes,Yes
+Four Points by Sheraton Danang,Sơn Trà,5.0,8.9,36,797266,No,No,Yes
+King House Villa Hotel & Spa,Sơn Trà,3.0,8.7,221,417100,No,Yes,Yes
+Continent Hotel Danang,Sơn Trà,3.0,8.5,552,359190,No,Yes,Yes
+The Herriott Hotel & Suite,Sơn Trà,3.0,8.9,1032,696000,No,Yes,Yes
+Jolia's House,Ngũ Hành Sơn,2.0,8.6,30,687500,No,Yes,Yes
+MAI Villa And Apartment,Ngũ Hành Sơn,3.5,8.9,6,660000,No,Yes,No
+Animor Green Home Villa Da Nang,Sơn Trà,3.0,8.7,131,470400,No,Yes,Yes
+Minh Toan Ocean Hotel,Sơn Trà,4.0,9.1,16,1140000,No,Yes,Yes
+Aria Hotel,Ngũ Hành Sơn,3.5,8.6,101,630000,No,Yes,Yes
+Khách sạn Seahorse,Quận Hải Châu,2.5,0.0,0,611000,No,No,Yes
+InterContinental Danang Sun Peninsula Resort,Sơn Trà,5.0,8.7,13,10350534,No,No,Yes
+Khách sạn căn hộ Mayfair Hotel Đà Nẵng,Sơn Trà,2.0,8.4,134,645000,No,Yes,Yes
+Fivitel Danang Hotel,Sơn Trà,4.0,8.9,441,1078000,No,Yes,Yes
+HAIAN Beach Hotel & Spa,Ngũ Hành Sơn,4.0,8.7,63,752500,No,Yes,Yes
+Le House Hotel and Studio,Liên Chiểu,2.0,8.1,11,269002,No,No,No
+Avatar Danang Hotel,Ngũ Hành Sơn,4.0,8.7,73,600000,No,Yes,Yes
+Balcona Hotel Da Nang,Ngũ Hành Sơn,4.0,8.4,25,707256,No,Yes,Yes
+The Now Boutique Hotel,Ngũ Hành Sơn,3.0,9.4,6,546000,No,No,Yes
+Sunny Ocean Hotels & Spa,Ngũ Hành Sơn,3.5,9.2,13,2200000,No,Yes,Yes
+Khách sạn Cavilla,Sơn Trà,2.5,8.6,238,360000,No,Yes,Yes
+Pavilion Hotel Danang,Sơn Trà,3.5,8.9,61,678500,No,Yes,Yes
+Muong Thanh Luxury Da Nang Hotel,Sơn Trà,4.5,8.4,232,1009041,No,No,Yes
+Khách sạn Như Minh Plaza Đà Nẵng,Sơn Trà,4.0,8.7,36,735000,No,Yes,Yes
+Cicilia Da Nang Hotel and Spa,Ngũ Hành Sơn,4.0,8.5,111,610000,No,Yes,Yes
+Sel de Mer Hotel & Suites,Sơn Trà,4.5,0.0,0,1138956,No,Yes,Yes
+Lotus Rock Hotel,Thanh Khê,1.0,8.5,28,382395,No,Yes,No
+Babylon Garden – a VIE collection,Sơn Trà,3.0,9.1,78,498000,No,No,Yes
+Leisure Inn Cocobay,Ngũ Hành Sơn,3.0,0.0,0,667000,No,No,No
+Brilliant Majestic Villa Hotel,Sơn Trà,3.0,9.0,586,315000,No,Yes,Yes
+Nui Than Tai - Ebisu Onsen Resort,Đà Nẵng,4.0,8.7,301,1700000,No,Yes,Yes
+Lavender Riverside Hotel,Quận Hải Châu,0.0,8.6,178,475000,No,No,Yes
+Khách sạn Be Sea,Ngũ Hành Sơn,2.0,8.5,391,225000,No,Yes,No
+Pariat Hotel & Apartment,Quận Hải Châu,3.0,8.3,102,520000,No,No,Yes
+Khách sạn Misa Đà Nẵng,Sơn Trà,2.5,7.9,119,655000,No,Yes,Yes
+Khách sạn San San,Ngũ Hành Sơn,2.5,8.5,203,222400,No,Yes,No
+Eden Hotel Danang,Ngũ Hành Sơn,4.0,9.1,20,1174545,No,Yes,Yes
+Minh Toan Galaxy,Quận Hải Châu,4.0,8.8,40,1210847,No,Yes,Yes
+Khách sạn Grand Sea,Sơn Trà,4.0,8.8,148,1350000,No,Yes,Yes
+Golden Star Hotel,Ngũ Hành Sơn,3.0,8.3,26,1026000,No,Yes,Yes
+Sea Castle 2 Hotel,Sơn Trà,3.0,8.6,31,398250,No,Yes,Yes
+Lupin Da Nang Hotel,Quận Hải Châu,2.5,8.9,20,480000,No,Yes,Yes
+Roliva Hotel & Apartment Danang,Sơn Trà,3.5,0.0,0,507500,No,Yes,Yes
+Clivia Hotel and Suite,Sơn Trà,3.0,8.3,25,440000,No,No,Yes
+Khách sạn Mandila Beach Đà Nẵng,Sơn Trà,4.0,8.9,102,578018,No,Yes,Yes
+Dong Duong Hotel & Suites,Quận Hải Châu,3.0,8.7,7,870000,No,Yes,Yes
+Khách sạn QaMi,Sơn Trà,2.0,8.3,29,199000,No,No,Yes
+Khách sạn SunSea,Sơn Trà,2.0,8.0,440,900000,No,Yes,No
+Ruby Light Hotel Danang,Ngũ Hành Sơn,3.0,8.4,18,1300000,No,Yes,Yes
+Salmalia Boutique Hotel & Spa,Sơn Trà,3.5,8.8,29,918000,No,Yes,Yes
+An Thinh Loc Hotel Da Nang,Thanh Khê,2.0,7.3,59,190002,No,Yes,No
+Khách sạn Star Đà Nẵng,Sơn Trà,3.0,8.3,267,402500,No,Yes,Yes
+The Ocean Villas,Ngũ Hành Sơn,5.0,8.7,13,2339363,No,Yes,Yes
+Amani Hotel Danang,Sơn Trà,0.0,8.6,7,303958,No,No,No
+Fusion Suites Da Nang – Reflexology Inclusive,Sơn Trà,4.0,8.3,23,1467748,No,No,Yes
+Johnny Hotel,Sơn Trà,1.0,7.9,13,235000,No,Yes,No
+Daisy Boutique Hotel and Apartment,Ngũ Hành Sơn,0.0,9.2,22,702000,No,Yes,Yes
+Khách sạn Hoa Ly,Quận Hải Châu,2.0,8.4,28,400000,No,Yes,No
+Khách sạn Happy Day,Quận Hải Châu,2.0,8.4,633,358771,No,Yes,Yes
+Vinh Trung Plaza Apartments and Hotel,Thanh Khê,3.0,8.1,103,1000000,No,Yes,Yes
+Khách sạn Thanh Nhàn,Sơn Trà,2.0,8.1,141,250000,No,No,Yes
+Dreamy House,Sơn Trà,1.5,8.6,194,325000,No,No,No
+Khách sạn Diamond Sea,Sơn Trà,4.0,8.9,197,795000,No,Yes,Yes
+Khách sạn Hồng Phương,Sơn Trà,3.0,8.5,9,280000,No,Yes,Yes
+Kova Diamond Hotel,Sơn Trà,3.0,8.3,465,254000,No,No,Yes
+Khách sạn Lis,Sơn Trà,2.0,8.9,62,289528,No,Yes,No
+Muong Thanh Luxury Song Han Hotel,Quận Hải Châu,4.5,8.3,40,924000,No,Yes,Yes
+Silana Hotel,Ngũ Hành Sơn,2.0,8.7,43,318300,No,No,No
+New Orient Hotel Danang,Quận Hải Châu,4.0,8.9,106,976233,No,Yes,Yes
+Phuoc My An Beach Hotel,Sơn Trà,4.0,0.0,0,670800,No,No,Yes
+Moonlight Hotel Da Nang,Quận Hải Châu,3.0,8.4,191,574000,No,Yes,Yes
+Dragon Sea Hotel,Sơn Trà,2.5,8.4,482,320000,No,Yes,No
+Khách sạn Sanouva Đà Nẵng,Quận Hải Châu,3.5,9.1,47,819200,No,No,Yes
+Khách sạn Thiên Thanh Đà Nẵng,Thanh Khê,2.0,8.0,21,441865,No,No,No
+Aria Grand Hotel & Spa,Ngũ Hành Sơn,3.5,9.0,30,696000,No,No,Yes
+Khách sạn Amunra,Sơn Trà,2.0,8.5,167,597950,No,No,No
+Jupiter Hotel,Quận Hải Châu,1.5,8.7,56,180000,No,No,No
+Khách sạn Hà Nội Blue Đà Nẵng,Ngũ Hành Sơn,1.5,7.9,189,258000,No,No,No
+Connect Hotel,Sơn Trà,3.0,7.9,40,637500,No,No,No
+Gold Boutique Hotel,Thanh Khê,3.0,8.5,81,416500,No,No,No
+Nhat Linh Hotel Da Nang,Quận Hải Châu,3.0,8.6,89,394132,No,No,Yes
+Halina Hotel & Apartment,Ngũ Hành Sơn,3.5,9.0,54,454453,No,No,Yes
+Dreamy Sky Boutique Hotel,Quận Hải Châu,1.0,8.2,80,231000,No,No,Yes
+Khách sạn Ocean Haven,Sơn Trà,3.0,8.7,40,1200000,No,No,Yes
+Grand Ocean Luxury Boutique,Ngũ Hành Sơn,3.5,8.8,49,600000,No,No,Yes
+Khách sạn Louis,Quận Hải Châu,2.5,8.4,101,392000,No,No,Yes
+Dylan Hotel,Sơn Trà,3.0,8.6,39,216000,No,No,Yes
+The Samson Boutique Hotel,Sơn Trà,1.5,8.9,6,250389,No,No,No
+Gold Hotel,Quận Hải Châu,0.0,8.5,769,487500,No,No,Yes
+Phu Nam Hotel,Quận Cẩm Lệ,0.0,0.0,0,221338,No,No,Yes
+Lucky Danang Hotel & Apartment,Quận Hải Châu,2.0,8.7,106,390000,No,No,Yes
+Khách sạn New Sky,Sơn Trà,2.0,8.4,28,254150,No,No,No
+Khách sạn Sunsea,Ngũ Hành Sơn,2.0,0.0,0,896922,No,No,Yes
+SERENE Beach Hotel,Ngũ Hành Sơn,4.0,8.7,86,483698,No,No,Yes
+Grand Tourane Hotel,Sơn Trà,4.0,9.1,75,1196000,No,No,Yes
+Khách sạn Sea Garden,Sơn Trà,3.0,8.9,23,1385000,No,No,Yes
+PARZE OCEAN Hotel & Spa,Sơn Trà,3.5,8.7,27,1550000,No,No,Yes
+Khách sạn Sun River,Quận Hải Châu,3.0,8.6,127,896922,No,No,Yes
+Khách sạn Mỹ Khê 2,Sơn Trà,3.0,0.0,0,426040,No,No,Yes
+The Dawn Hotel,Sơn Trà,2.0,8.1,846,500000,No,No,Yes
+Rosabella Boutique Hotel,Sơn Trà,3.0,8.8,296,372000,No,No,Yes
+Hodi Hotel Danang,Ngũ Hành Sơn,2.0,8.8,11,275500,No,No,Yes
+Khách sạn Amanda,Quận Hải Châu,3.0,7.9,74,700000,No,No,Yes
+Danang Golden Bay,Sơn Trà,5.0,8.7,102,1459113,No,No,Yes
+Bloom Hotel,Quận Hải Châu,1.0,8.4,82,320000,No,No,No
+Tuan Phong Hotel,Sơn Trà,2.0,8.1,296,239180,No,No,No
+Bamboo Hotel,Đà Nẵng,2.0,8.3,57,420000,No,No,Yes
+Arita Rivera Hotel,Ngũ Hành Sơn,4.0,0.0,0,704000,No,No,Yes
+Bac Nam Hotel,Sơn Trà,1.5,8.8,17,269078,No,No,No
+Jolia Hotel and Apartment,Ngũ Hành Sơn,2.5,9.0,57,675000,No,No,Yes
+Vy Thuyen Hotel,Thanh Khê,3.0,8.9,115,560000,No,No,Yes
+Sea Phoenix,Ngũ Hành Sơn,3.0,8.7,156,622122,No,No,Yes
+Cordial Hotel,Sơn Trà,3.5,8.8,19,1150000,No,No,Yes
+Ibiza Riverfront Hotel,Sơn Trà,3.5,9.0,63,612500,No,No,Yes
+Khách sạn Samdi Đà Nẵng,Thanh Khê,4.0,8.9,115,648000,Yes,No,Yes
+Dai Long Hotel,Thanh Khê,2.0,8.0,8,475000,No,No,Yes
+Central Hotel and Spa Danang,Quận Hải Châu,3.0,8.7,78,789288,Yes,No,Yes
+Zalo Sea Hotel,Sơn Trà,3.0,8.6,40,800000,No,No,No
+Hanh Nguyen Gems Hotel and Spa,Quận Hải Châu,1.0,0.0,0,250000,No,No,No
+Furama Resort Danang,Ngũ Hành Sơn,5.0,8.5,19,1588166,Yes,Yes,Yes
+Hava Hotel Danang,Ngũ Hành Sơn,2.0,8.5,68,1770014,No,No,Yes
+Vien Dong Hotel,Quận Hải Châu,2.0,8.4,58,270000,No,Yes,No
+Khách sạn Kiên Cường 1,Ngũ Hành Sơn,3.0,8.5,26,400000,No,Yes,Yes
+Khách sạn căn hộ Raon,Sơn Trà,3.0,8.7,412,640000,No,Yes,Yes
+Thao Van Motel,Sơn Trà,0.0,0.0,0,159001,No,Yes,No
+Ruby Hotel,Ngũ Hành Sơn,2.0,8.8,67,357864,No,Yes,Yes
+Khách sạn Forever,Sơn Trà,1.5,8.4,15,250000,No,Yes,No
+Evelyn Hotel,Quận Hải Châu,1.0,7.4,284,250000,No,No,No
+Haka Hotel & Apartment,Sơn Trà,3.5,0.0,0,800505,Yes,No,Yes
+Sky Star Hotel,Ngũ Hành Sơn,2.0,0.0,0,244200,No,No,No
+Calix Hotel,Sơn Trà,3.5,0.0,0,994070,No,No,Yes
+Khách Sạn Anh Tú,Ngũ Hành Sơn,2.5,8.6,10,262500,No,Yes,Yes
+Nét Việt Homestay,Quận Hải Châu,1.0,9.2,5,158538,No,No,No
+Khách sạn Sofia Boutique,Sơn Trà,3.0,9.1,20,675000,No,Yes,Yes
+Huong Binh Hotel,Thanh Khê,1.5,7.7,11,447058,No,Yes,No
+Hilary Hotel,Sơn Trà,1.0,7.9,171,250000,No,Yes,No
+Senorita Boutique Hotel,Ngũ Hành Sơn,0.0,0.0,0,540000,Yes,Yes,Yes
+Khách sạn Thanh Lan 2,Quận Hải Châu,2.0,9.5,5,270000,No,Yes,No
+Khách sạn Happy Sky,Sơn Trà,2.5,8.5,214,345600,No,Yes,Yes
+Risemount Premier Resort Danang,Ngũ Hành Sơn,4.5,8.9,144,715729,Yes,Yes,Yes
+Vic House Hotel,Quận Hải Châu,2.0,8.8,8,357864,No,Yes,Yes
+Song Thu Hotel,Quận Hải Châu,2.0,7.8,75,339150,No,Yes,Yes
+Phu My Long Hotel,Ngũ Hành Sơn,2.0,8.2,231,844960,No,Yes,Yes
+Wings House,Quận Hải Châu,2.5,9.1,18,1200000,No,No,No
+Trang Ngan Hotel,Ngũ Hành Sơn,2.0,9.1,93,360000,No,No,Yes
+Khách sạn Red Palace,Quận Hải Châu,3.0,8.8,216,359107,No,Yes,Yes
+Khách sạn Hanami Đà Nẵng,Ngũ Hành Sơn,2.0,8.5,92,276915,No,Yes,Yes
+New Life Hotel Danang,Quận Hải Châu,1.0,7.8,13,300000,No,No,No
+Quan Quan Hotel,Quận Hải Châu,0.0,8.4,469,350000,No,Yes,Yes
+AVA Hotel & Apartment,Ngũ Hành Sơn,2.0,0.0,0,330000,No,Yes,No
+Sunshine Beach Hotel,Sơn Trà,2.0,9.1,32,646516,No,Yes,No
+La Lune Hotel,Sơn Trà,2.0,8.6,83,229500,No,No,No
+Sunny Beach Hotel,Sơn Trà,2.5,7.9,5,330000,No,Yes,No
+Khách sạn Mercury Boutique Đà Nẵng,Quận Hải Châu,3.0,8.6,39,652000,No,No,Yes
+Hadiva Boutique Hotel,Quận Hải Châu,2.0,0.0,0,795256,No,No,No
+Ritzy Boutique Hotel Danang,Ngũ Hành Sơn,3.5,8.7,10,1200000,Yes,Yes,Yes
+Khách sạn Charming Đà Nẵng,Ngũ Hành Sơn,2.0,7.5,11,300000,No,Yes,No
+Khách sạn The Pergola Design,Sơn Trà,2.0,8.3,45,423475,No,No,No
+Dreamy Beach Boutique Hotel,Sơn Trà,2.0,8.6,160,320000,No,Yes,No
+An Hotel Da Nang,Quận Hải Châu,1.5,0.0,0,273329,No,Yes,No
+Seawind Hotel,Ngũ Hành Sơn,2.5,7.5,20,550000,No,Yes,Yes
+Khách sạn Rich,Sơn Trà,2.0,8.6,166,258000,No,No,No
+Khách sạn Moonlight 2,Quận Hải Châu,2.0,8.0,39,500000,No,Yes,Yes
+Bac Nam I Hotel,Quận Cẩm Lệ,0.0,8.2,37,223667,No,Yes,Yes
+Khách sạn Phúc Lâm,Quận Hải Châu,0.0,7.6,9,250000,No,Yes,No
+Anh Villa Hotel,Sơn Trà,1.0,7.9,14,240000,No,Yes,Yes
+Khách sạn Đàm Tiến,Sơn Trà,2.0,8.5,35,299150,No,Yes,No
+An Duc Hotel,Ngũ Hành Sơn,1.5,8.5,18,697681,No,Yes,No
+The Garden Hotel and Apartment,Quận Hải Châu,2.0,8.7,21,315000,No,Yes,Yes
+Camry Hotel,Quận Hải Châu,1.0,7.5,9,295000,No,Yes,No
+Bamboo Green Hotel,Quận Hải Châu,3.0,7.8,86,455000,No,Yes,Yes
+Khách sạn An Bình Tài,Sơn Trà,0.0,9.0,51,216000,No,Yes,No
+Khách sạn Candy,Sơn Trà,1.5,8.9,40,182000,No,Yes,No
+Alibaba Hotel Da Nang,Sơn Trà,2.5,8.5,27,337722,No,No,No
+Anna Center Hotel,Quận Hải Châu,1.5,8.3,6,695848,No,Yes,No
+Oasis Hotel & Apartment,Sơn Trà,2.0,9.6,34,354289,No,Yes,Yes
+Danang Boutique Hotel,Quận Hải Châu,3.0,0.0,0,798834,No,Yes,Yes
+DaNa Home Hotel,Quận Hải Châu,2.0,8.3,90,263134,No,Yes,No
+Khách sạn Bostand 2 Đà Nẵng,Sơn Trà,1.0,8.2,15,500000,No,No,No
+Hilton Đà Nẵng,Quận Hải Châu,5.0,8.5,10,1309638,Yes,No,Yes
+Victori Hotel Da Nang,Ngũ Hành Sơn,1.0,8.4,96,248517,No,Yes,Yes
+Hien Hoa Hotel,Sơn Trà,2.0,7.7,13,225000,No,No,No
+Bellav Hotel,Sơn Trà,2.5,8.1,63,646146,No,Yes,Yes
+Origo Hotel,Quận Hải Châu,2.0,8.2,288,601179,No,Yes,Yes
+The Carnation Hotel Da Nang,Quận Hải Châu,2.0,8.6,7,220000,No,Yes,No
+Sơn Trà Green,Sơn Trà,3.0,0.0,0,269078,No,No,No
+Lavender Danang Hotel,Ngũ Hành Sơn,2.0,8.4,74,290000,No,Yes,Yes
+Pharaoh Boutique Hotel Danang,Sơn Trà,3.5,0.0,0,494000,Yes,Yes,Yes
+Dana Pearl Hotel,Quận Hải Châu,3.0,8.1,97,647059,No,Yes,Yes
+Khách sạn Hương Sơn,Quận Cẩm Lệ,3.0,7.9,8,800000,No,Yes,Yes
+Khách sạn OTIS,Quận Hải Châu,2.0,8.9,200,500000,No,Yes,No
+Cents Đà Nẵng Hostel,Sơn Trà,1.5,8.7,15,619311,No,Yes,Yes
+Bin Star Hotel Da Nang,Sơn Trà,1.5,8.5,229,258000,No,Yes,No
+BLUE-S Hotel & Apartment,Ngũ Hành Sơn,0.0,0.0,0,218849,No,Yes,Yes
+Khách sạn Tabino Đà Nẵng,Sơn Trà,3.5,8.8,115,643691,No,Yes,Yes
+Quoc Khanh Hotel,Thanh Khê,2.0,0.0,0,300000,No,Yes,No
+Khách sạn Saigontourane,Quận Hải Châu,3.0,8.8,14,640000,No,Yes,Yes
+Hung Binh Hotel,Quận Hải Châu,0.0,7.7,28,300000,No,No,Yes
+M Boutique Danang,Sơn Trà,4.0,0.0,0,849590,Yes,Yes,Yes
+Khách sạn Sea Wonder,Sơn Trà,2.5,0.0,0,372776,No,No,Yes
+Khách sạn Aroya,Liên Chiểu,2.5,0.0,0,533973,No,No,No
+Capella Danang Hotel & Apartment,Ngũ Hành Sơn,3.0,0.0,0,418563,No,No,No
+Khách sạn Nguyễn,Ngũ Hành Sơn,2.5,0.0,0,596443,No,Yes,No
+Nhat Anh Motel,Đà Nẵng,1.0,0.0,0,194191,No,No,No
+Spring Hotel Danang,Ngũ Hành Sơn,2.0,0.0,0,218695,No,No,No
+Gold Luxury Hotel,Sơn Trà,3.5,0.0,0,578018,Yes,No,Yes
+Khách sạn Quách Tĩnh,Sơn Trà,3.5,0.0,0,2322545,Yes,No,Yes
+Thanh Nhan Hotel,Đà Nẵng,2.0,0.0,0,260544,No,No,No
+Silkotel Da Nang,Sơn Trà,3.5,0.0,0,1120000,No,No,No
+Nhà nghỉ Văn Ty,Quận Hải Châu,1.5,0.0,0,150646,No,Yes,No
+Nhà nghỉ Đại Thắng,Quận Cẩm Lệ,1.5,0.0,0,354834,No,No,No
+CN Palace Boutique Hotel Da Nang,Sơn Trà,4.0,0.0,0,634298,No,No,No
+Sea Light Hotel Da Nang,Ngũ Hành Sơn,3.0,0.0,0,600000,No,Yes,Yes
+Nhà nghỉ Đại Lộc,Liên Chiểu,0.0,0.0,0,137552,No,No,No
+THE NATURE VILLAS & RESORT,Liên Chiểu,3.0,0.0,0,1868309,No,No,No
+IBIZA Riverfront Hotel Da Nang,Sơn Trà,4.0,0.0,0,401422,No,Yes,Yes
+HOM - HOW Da Nang Airport,Quận Hải Châu,0.0,0.0,0,1793848,Yes,No,Yes
+Nami Home,Sơn Trà,2.0,0.0,0,450000,No,No,No
+Rest Hotel & Apartment,Quận Hải Châu,3.5,9.1,6,1100000,Yes,No,Yes
+Dana Residence,Sơn Trà,0.0,0.0,0,1200000,Yes,Yes,No
+GIC Luxury Hotel And Spa,Quận Hải Châu,4.0,8.5,11,520000,Yes,Yes,Yes
+658 Euro Gold House And Coffee,Sơn Trà,0.0,0.0,0,212095,No,Yes,No
+Santorini House and Coffee,Quận Cẩm Lệ,2.0,0.0,0,360000,No,Yes,Yes
+Luna House Danang,Sơn Trà,1.5,0.0,0,298974,No,No,No
+Hung Thu Hotel,Sơn Trà,0.0,0.0,0,248523,No,No,No
+The Fish Village Villa,Sơn Trà,3.5,0.0,0,581531,Yes,No,No
+Sea Swan Apartment and Hotel,Ngũ Hành Sơn,2.5,0.0,0,875000,No,Yes,Yes
+Temple Da Nang,Sơn Trà,3.5,0.0,0,1195898,Yes,No,Yes
+Khách sạn Hồng Châu,Sơn Trà,3.0,0.0,0,697607,No,No,Yes
+Khách sạn An Bình,Quận Hải Châu,2.0,0.0,0,546737,No,No,Yes
+Khách sạn Family,Sơn Trà,3.0,0.0,0,358769,No,Yes,Yes
+Citadines Blue Cove Danang,Sơn Trà,4.5,0.0,0,2391024,Yes,No,Yes
+Khách sạn Vitalis Riverside,Sơn Trà,3.0,0.0,0,333656,No,No,No
+Bamboo Green Riverside Hotel,Quận Hải Châu,3.0,0.0,0,525700,No,No,No
+Khách sạn Stars,Quận Hải Châu,2.5,7.2,6,596443,No,No,No
+Khách sạn Gà Vàng,Sơn Trà,3.0,0.0,0,347924,No,No,No
+Seashore Hotel & Apartment,Sơn Trà,3.5,8.9,59,537958,Yes,Yes,Yes
+Ponte Boutique Villa,Sơn Trà,2.0,9.7,11,878756,Yes,Yes,Yes
+Grand Gold Hotel,Sơn Trà,4.0,9.0,57,1219164,Yes,Yes,Yes
+Summer Beach,Ngũ Hành Sơn,2.0,0.0,0,261604,No,No,No
+Da Nang Moon Hotel & Apartments,Ngũ Hành Sơn,3.5,0.0,0,617500,No,Yes,Yes
+Triple Apartment & Hotel Ngo Thi Sy,Ngũ Hành Sơn,2.5,0.0,0,800000,No,Yes,No
+Turin Hotel,Thanh Khê,1.5,7.4,11,360000,No,Yes,No
+Binh Duong Hotel Danang,Quận Hải Châu,2.5,8.8,19,477154,No,Yes,Yes
+S Hotel,Sơn Trà,2.0,0.0,0,397627,No,No,No
+Majestic Hotel,Ngũ Hành Sơn,0.0,0.0,0,397627,Yes,Yes,No
+Duy Tung Hotel Da Nang,Sơn Trà,0.0,0.0,0,497034,No,No,Yes
+Khách sạn Hạnh Phước,Sơn Trà,3.0,0.0,0,318104,No,No,No
+Hotel Hey Day Spa,Ngũ Hành Sơn,3.0,0.0,0,666026,No,No,Yes
+Bespoke Beachfront,Ngũ Hành Sơn,0.0,0.0,0,600000,No,No,No
+Khách sạn Bé Anh,Sơn Trà,3.0,0.0,0,917774,No,No,Yes
+Benzen Boutique Stays Danang,Sơn Trà,1.5,0.0,0,347924,No,No,Yes
+Ngọc Hân Hotel Đà Nẵng,Ngũ Hành Sơn,2.0,0.0,0,450000,No,No,No
+Sofiana Mỹ Khê Hotel & Spa,Ngũ Hành Sơn,3.5,0.0,0,976671,Yes,No,Yes
+Ruby Light Hotel,Thanh Khê,3.0,0.0,0,2895498,Yes,Yes,Yes
+The Ocean Villas,Ngũ Hành Sơn,5.0,0.0,0,2408073,No,Yes,Yes
+The Wings Danang Hotel,Ngũ Hành Sơn,2.5,0.0,0,1090000,No,Yes,Yes
+Happy House Boutique & Spa,Quận Hải Châu,2.0,8.2,5,500000,Yes,Yes,Yes
+Zoneland Premium Luxury Apartments,Ngũ Hành Sơn,5.0,0.0,0,3976280,Yes,No,No
+Khách sạn Legacy,Sơn Trà,3.0,0.0,0,1096241,Yes,No,Yes
+Palazzo Hotel Danang 2,Ngũ Hành Sơn,3.5,8.1,12,2350000,Yes,Yes,Yes
+My An Garden Hotel,Ngũ Hành Sơn,1.0,0.0,0,395000,No,Yes,No
+Lahome Apartment Villa,Sơn Trà,3.0,9.1,16,596443,Yes,No,Yes
+An Thuyen Hotel,Sơn Trà,2.5,0.0,0,298975,No,Yes,Yes
+Seven Sea Hotel Da Nang,Sơn Trà,4.0,0.0,0,504489,No,No,No
+CODI SEA Hotel,Sơn Trà,2.0,0.0,0,448460,No,Yes,No
+Gold Summer 2 Hotel,Sơn Trà,1.5,8.7,19,360000,No,Yes,No
+Onami Hotel,Ngũ Hành Sơn,0.0,0.0,0,1050000,No,Yes,No
+Amber Hostel,Sơn Trà,2.0,0.0,0,348804,No,No,No
+Motel Thanh Long,Liên Chiểu,2.5,0.0,0,249145,No,No,No
+Da Nang Sunlit Sea Hotel & Apartment,Ngũ Hành Sơn,3.0,0.0,0,1200000,Yes,Yes,Yes
+ENJOY Home Da Nang,Sơn Trà,3.0,0.0,0,835018,No,No,No
+Celina Hotel & Apartment,Ngũ Hành Sơn,3.0,8.8,7,800000,Yes,Yes,Yes
+Khách sạn Sunshine,Sơn Trà,3.0,0.0,0,498290,No,No,Yes
+Ocean Apartment in Resort,Ngũ Hành Sơn,3.0,0.0,0,3446728,Yes,No,Yes
+My Hotel,Ngũ Hành Sơn,2.0,0.0,0,250000,No,No,No
+Khách sạn Seventeen Saloon,Sơn Trà,3.0,0.0,0,1092483,No,Yes,Yes
+Dong Bac Hotel,Ngũ Hành Sơn,2.0,8.9,5,447331,No,Yes,Yes
+Onedana Hotel,Sơn Trà,1.0,0.0,0,1391699,No,No,No
+Khách sạn Dương Đàn,Sơn Trà,2.5,0.0,0,397627,No,No,No
+Omega Hotel,Sơn Trà,2.0,8.3,6,493058,No,No,No
+Hoai Sang Hotel,Sơn Trà,2.5,8.3,47,500000,No,No,Yes
+Khách sạn Ý Vân,Sơn Trà,1.5,0.0,0,420000,No,Yes,No
+Nguyen Hotel,Ngũ Hành Sơn,2.0,0.0,0,207763,No,Yes,No
+Cau Rong Hotel,Sơn Trà,1.0,6.0,8,400000,No,Yes,Yes
+Valencia Hotel,Ngũ Hành Sơn,3.0,6.8,7,790000,No,No,Yes
+Crowne Plaza Danang,Ngũ Hành Sơn,4.5,0.0,0,3668231,Yes,Yes,Yes
+Khách sạn Sea Star,Ngũ Hành Sơn,3.5,0.0,0,297225,No,Yes,Yes
+Hachi Hostel,Quận Hải Châu,1.0,8.7,5,1176689,No,No,Yes
+G'Apartment,Quận Hải Châu,1.0,8.8,28,445000,No,No,Yes
+My Khe Hotel,Sơn Trà,0.0,0.0,0,550000,No,Yes,Yes
+Golden Rose Hotel Đà Nẵng,Sơn Trà,3.0,8.6,19,1250000,No,Yes,Yes
+CN Palace Hotel,Sơn Trà,3.5,0.0,0,1300000,Yes,Yes,Yes
+Cosmos Hotel Danang,Ngũ Hành Sơn,3.5,9.0,19,858056,Yes,Yes,Yes
+Flower Hotel,Ngũ Hành Sơn,2.5,0.0,0,645000,Yes,No,Yes
+Havin Boutique Hotel Danang,Ngũ Hành Sơn,3.0,8.4,10,447331,Yes,Yes,Yes
+Smile Hotel,Thanh Khê,2.0,8.7,7,350000,No,Yes,No
+Khách sạn Phương Quang,Thanh Khê,3.0,6.8,5,347924,No,No,No
+HSB Office and Apartment,Ngũ Hành Sơn,3.5,0.0,0,459259,Yes,No,Yes
+Khách sạn Azumaya Đà Nẵng,Quận Hải Châu,3.0,9.0,5,1027870,No,No,Yes
+Khách sạn Ly Ly,Quận Hải Châu,0.0,0.0,0,350000,No,Yes,No
+Truong Son Tung 2 Hotel,Sơn Trà,3.0,8.6,29,667000,No,Yes,Yes
+Khách sạn Tuyền Sơn,Quận Hải Châu,1.0,0.0,0,350000,No,Yes,No
+Thu Bon Hotel,Quận Hải Châu,2.0,0.0,0,450000,No,Yes,Yes
+Danang Petro Hotel,Quận Hải Châu,3.0,7.7,27,670996,No,Yes,Yes
+Khách sạn Blue Summer,Thanh Khê,2.0,8.2,15,287000,No,Yes,No
+Sea Castle Hotel,Sơn Trà,2.0,8.5,121,343750,No,Yes,No
+Blossom Hotel,Quận Hải Châu,1.0,8.3,8,518000,No,No,No
+Seaside Hotel Danang,Sơn Trà,1.5,0.0,0,397627,No,Yes,No
+Khách sạn Dreams Đà Nẵng,Ngũ Hành Sơn,2.0,8.4,10,389675,No,Yes,Yes
+Swan Hotel Danang,Thanh Khê,1.0,0.0,0,290700,No,Yes,No
+Khách sạn Kim Cương,Quận Hải Châu,1.0,0.0,0,497034,No,Yes,No
+Khách sạn Công Thương,Sơn Trà,1.0,7.9,8,295000,No,Yes,No
+GOLDEN HOUSE,Sơn Trà,1.0,9.2,5,347924,No,Yes,No
+Danang Beach 2 Hotel,Ngũ Hành Sơn,1.0,8.9,36,200000,No,Yes,No
+Rise Hotel,Sơn Trà,1.5,0.0,0,250000,No,No,No
+Khách sạn Khánh Vinh Đà Nẵng,Sơn Trà,2.0,7.6,8,534888,No,Yes,No
+Navy Hotel Danang,Sơn Trà,3.0,0.0,0,400000,No,Yes,No
+Khách sạn Bảo Châu,Ngũ Hành Sơn,1.0,7.4,6,248517,No,Yes,No
+Duong Gia Hotel,Sơn Trà,2.5,8.2,19,750000,No,Yes,No
+Kay Hotel,Sơn Trà,2.5,8.1,25,412585,No,No,No
+Orchide'es Hotel and Apartment,Sơn Trà,2.5,8.8,26,764441,No,No,Yes
+Lake View Hotel,Thanh Khê,2.0,0.0,0,360000,No,No,Yes
+Khách sạn Minh Anh,Quận Hải Châu,1.0,0.0,0,347924,No,Yes,No
+Happy Hotel Danang,Sơn Trà,1.0,0.0,0,497034,No,Yes,No
+Onion Hotel & Apartments,Sơn Trà,2.5,0.0,0,1100000,No,No,No
+Dai Nam Hotel Da Nang,Ngũ Hành Sơn,1.0,0.0,0,300000,No,No,No
+Khách sạn Tâm House Villa,Sơn Trà,3.0,9.2,33,745553,Yes,No,Yes
+Mari Gold Hotel & Apartment,Sơn Trà,2.5,0.0,0,1469528,No,Yes,Yes
+Mai Boutique Villa,Sơn Trà,2.5,0.0,0,500000,No,Yes,Yes
+Blue Ocean 2 Hotel,Ngũ Hành Sơn,2.5,7.2,8,4982913,No,Yes,Yes
+Dai A Hotel,Quận Hải Châu,2.0,0.0,0,350466,No,No,Yes
+Phuc Long Hotel,Sơn Trà,2.0,7.4,9,242002,No,Yes,No
+Furama Villas Danang,Ngũ Hành Sơn,5.0,0.0,0,6912474,Yes,Yes,Yes
+Avalon Hotel,Sơn Trà,2.0,7.9,6,500000,No,Yes,Yes
+Khách sạn Osaka,Ngũ Hành Sơn,2.0,8.1,64,1000000,No,Yes,Yes
+The Blossom Premier Beach Front – Onsen & Foot Massage Inclusive,Sơn Trà,3.5,8.9,8,866030,Yes,No,Yes
+Khách sạn One Star Đà Nẵng,Quận Hải Châu,1.5,8.5,27,3986330,No,No,No
+Zone 5 Boutique Hotel Danang,Ngũ Hành Sơn,3.0,8.0,5,398632,No,No,Yes
+Tan Khanh Tien Hotel,Đà Nẵng,1.0,0.0,0,370000,No,No,Yes
+Princess Hotel Danang,Sơn Trà,3.0,0.0,0,9965827,No,No,Yes
+Khách sạn Green House,Sơn Trà,2.5,8.1,16,480000,No,No,Yes
+Sea Front Hotel,Ngũ Hành Sơn,3.0,8.3,16,383686,No,No,Yes
+Danang Han River Hotel,Quận Hải Châu,3.5,0.0,0,1400000,No,No,Yes
+Beach House An Thuong - a VIE collection,Ngũ Hành Sơn,3.0,8.2,90,850000,No,No,Yes
+Jay Grand Hotel,Sơn Trà,3.0,8.2,11,425000,No,No,Yes
+Tien Sa Hotel,Quận Hải Châu,0.0,8.4,8,450000,No,No,Yes
+Orange Hotel,Quận Hải Châu,3.0,0.0,0,1950510,No,No,Yes
+Khách sạn Thanh Hà,Sơn Trà,3.0,7.4,5,400000,No,No,Yes
+Khách sạn Avora,Quận Hải Châu,3.0,9.1,59,2000000,No,No,Yes
+Xuan Hung Hotel,Quận Hải Châu,2.0,7.8,54,231207,No,No,Yes
+Lenid Da Nang Hotel,Sơn Trà,3.0,7.4,17,650000,No,No,Yes
+Hadana Boutique Hotel Da Nang,Sơn Trà,3.5,8.9,34,1663793,Yes,No,Yes
+Delfino Hotel & Spa,Ngũ Hành Sơn,3.0,8.5,5,1450000,Yes,No,Yes
+Premier Village Danang Resort,Ngũ Hành Sơn,4.5,0.0,0,7961948,Yes,No,No
+An Nam Hotel,Quận Hải Châu,1.0,0.0,0,450000,No,No,No
+Phuc Thanh Hotel,Ngũ Hành Sơn,2.5,0.0,0,690631,No,No,No
+Khách sạn Toàn Thắng,Ngũ Hành Sơn,3.0,0.0,0,535000,No,No,Yes
+Sanayen Villa & Residences,Sơn Trà,3.0,0.0,0,750000,Yes,No,Yes
+Khách sạn Mai Boutique,Sơn Trà,2.5,0.0,0,697607,No,No,Yes
+The Ann Hotel Danang,Sơn Trà,2.0,8.1,9,323889,No,No,Yes
+TP House,Quận Hải Châu,2.0,7.6,10,2341969,No,No,Yes
+Manchester Hotel & Apartment,Ngũ Hành Sơn,2.0,8.1,20,270000,No,No,No
+Luxtery Hotel,Sơn Trà,3.5,8.6,21,550000,Yes,No,Yes
+Khách sạn Bảo Quang,Ngũ Hành Sơn,2.0,8.7,5,1993163,No,No,No
+Bright Hotel,Quận Hải Châu,1.0,8.6,11,498290,No,No,No
+Salina Hotel,Quận Hải Châu,2.0,8.5,22,318908,No,No,No
+Khách sạn Cá Voi,Thanh Khê,0.0,8.3,11,239180,No,No,No
+Khách sạn Stay,Quận Hải Châu,4.0,8.7,23,1383800,Yes,No,Yes
+Le Hoang Beach Hotel,Ngũ Hành Sơn,4.0,8.9,31,675000,Yes,No,Yes
+Khách sạn Ngọc Lan,Sơn Trà,3.0,8.6,68,1450000,No,No,Yes
+Khách sạn Frangipani Boutique,Sơn Trà,3.0,0.0,0,597950,Yes,No,No
+Bezel Hotel,Sơn Trà,2.0,8.6,5,597950,No,No,Yes
+Danaciti Hotel,Sơn Trà,3.5,9.0,8,720000,Yes,No,Yes
+Khách sạn Tolia,Ngũ Hành Sơn,3.0,8.6,32,336000,No,No,Yes
+Khách sạn Lamuno,Sơn Trà,2.5,8.2,9,739134,No,No,Yes
+Kangaroo Holiday Lodge 1,Ngũ Hành Sơn,0.0,8.0,8,425000,No,No,Yes
+Gaston Hotel,Sơn Trà,2.0,8.1,20,700000,No,No,No
+Khách sạn căn hộ PnP Exclusive,Sơn Trà,3.0,7.3,5,652000,No,No,Yes
+Top Hotel,Sơn Trà,2.0,8.5,21,188067,No,No,No
+Golden Sea Hotel,Sơn Trà,3.0,8.4,14,850000,No,No,Yes
+King's Finger Luxury Hotel,Đà Nẵng,3.5,8.9,14,500687,Yes,No,Yes
+Khách sạn Emily,Ngũ Hành Sơn,3.0,8.5,70,298974,Yes,No,Yes
+Phu My Hotel,Quận Hải Châu,1.0,6.7,8,267200,No,No,No
+Cocochine – a VIE collection,Ngũ Hành Sơn,2.5,7.9,29,421056,No,No,Yes
+Khách sạn Legend,Sơn Trà,3.0,8.5,20,348805,No,No,Yes
+Bay Sydney Hotel,Sơn Trà,2.5,0.0,0,333000,No,No,Yes
+White Snow Hotel,Quận Hải Châu,3.0,8.3,101,757404,No,No,Yes
+Merry Land Hotel Da Nang,Sơn Trà,3.5,8.6,19,560000,Yes,No,Yes
+Khách sạn Sofia Suite,Ngũ Hành Sơn,3.0,8.8,16,825000,No,No,Yes
+Khách sạn Homie,Sơn Trà,1.0,8.4,48,349000,No,No,No
+Eco Green Boutique Hotel,Ngũ Hành Sơn,3.0,8.9,19,962500,Yes,No,Yes
+Nhà nghỉ Hương Long,Thanh Khê,0.0,6.6,6,457516,No,No,No
+Khách sạn Hoàng Đại 2,Sơn Trà,3.0,8.4,64,946754,No,Yes,Yes
+Khách sạn Gia Hưng,Thanh Khê,1.0,0.0,0,411764,No,No,No
+Di Lusso Boutique Hotel,Quận Hải Châu,3.0,8.9,31,650000,No,Yes,Yes
+Hemera Boutique Hotel,Ngũ Hành Sơn,3.5,0.0,0,1350000,Yes,Yes,Yes
+Khách sạn Palazzo Đà Nẵng,Ngũ Hành Sơn,3.0,8.7,100,575733,No,Yes,Yes
+Khách sạn Minh Hòa,Thanh Khê,1.0,7.9,33,386000,No,Yes,No
+Khách sạn Dana Sailing,Sơn Trà,2.0,8.1,10,540000,No,Yes,Yes
+Khách sạn Legacy Đà Nẵng,Sơn Trà,3.0,8.2,84,2000000,Yes,Yes,Yes
+Hoang Sa Hotel,Sơn Trà,3.0,8.8,69,405000,No,Yes,Yes
+Royal Huy Hotel,Ngũ Hành Sơn,3.5,8.6,25,1445000,Yes,Yes,Yes
+Khách sạn Vian,Sơn Trà,3.0,7.6,19,420000,No,No,Yes
+Khách sạn Biển Thành,Quận Hải Châu,2.0,8.0,20,400000,No,Yes,Yes
+Lion Sea Hotel Danang,Ngũ Hành Sơn,3.0,8.1,47,700000,No,Yes,Yes
+Ocean Flower Hotel,Quận Hải Châu,2.0,8.7,42,518223,No,No,No
+Do Hai Hotel Da Nang,Quận Hải Châu,3.0,8.0,7,500000,No,Yes,Yes
+Atlantic Da Nang Hotel,Sơn Trà,2.0,8.3,146,298974,No,No,No
+Oc Tien Sa Hotel,Thanh Khê,1.0,8.3,45,350000,No,Yes,Yes
+Catinal Hotel Danang,Quận Hải Châu,2.0,8.7,59,600000,No,Yes,No
+Khách sạn Platinum Đà Nẵng,Ngũ Hành Sơn,3.0,8.3,80,1993165,Yes,Yes,Yes
+Khách sạn Blue Beach,Sơn Trà,2.0,8.4,8,640802,No,No,No
+Khách sạn Hải Âu Đà Nẵng,Thanh Khê,2.0,7.3,43,330000,No,Yes,No
+Khách sạn Orchid Đà Nẵng,Sơn Trà,3.0,8.1,47,1500000,No,Yes,Yes
+Phu Cuong Hotel,Sơn Trà,2.0,8.8,47,354000,No,Yes,Yes
+Khách sạn Mitisa,Quận Hải Châu,3.0,8.9,61,874800,Yes,Yes,Yes
+Holiday Beach Danang Hotel & Resort,Ngũ Hành Sơn,4.0,8.4,74,3368451,Yes,Yes,Yes
+Phuong Tung Hotel,Sơn Trà,1.5,8.5,126,348805,No,Yes,No
+Jazz Hotel,Sơn Trà,3.0,8.6,71,627848,No,Yes,Yes
+La Maison Danang Beach,Sơn Trà,2.5,8.2,70,762385,No,Yes,Yes
+Gold House Hotel & Apartment,Quận Hải Châu,2.0,8.3,39,277800,No,Yes,No
+Khách sạn Areca Riverside,Sơn Trà,2.0,8.5,47,350000,No,No,No
+Fulmar Hotel,Quận Hải Châu,1.5,8.4,95,328694,No,Yes,No
+Ecodanang Hotel,Sơn Trà,1.0,8.2,79,350000,No,No,No
+Chu Hotel,Ngũ Hành Sơn,3.0,8.8,22,448282,No,Yes,Yes
+Val Soleil Hotel,Quận Hải Châu,3.5,8.3,6,971853,Yes,Yes,Yes
+Gold Time Hotel,Ngũ Hành Sơn,0.0,0.0,0,609908,No,Yes,Yes
+Tropical Da Nang Villa,Ngũ Hành Sơn,2.0,8.7,7,1240000,No,Yes,Yes
+Adaline Hotel & Apartment,Ngũ Hành Sơn,3.0,0.0,0,453445,Yes,Yes,Yes
+Zenta Hotel,Ngũ Hành Sơn,2.0,0.0,0,500000,No,Yes,No
+Khách sạn Đàm Phúc,Sơn Trà,1.0,8.6,111,348805,No,Yes,No
+Vinapha Hotel,Quận Hải Châu,1.0,7.0,106,2989749,No,Yes,Yes
+Khách sạn Dana Sea,Sơn Trà,2.0,7.5,226,471000,No,No,Yes
+Khách sạn Crystal,Sơn Trà,3.0,8.6,115,1200000,Yes,Yes,Yes
+Daystar Hotel,Ngũ Hành Sơn,1.0,8.0,66,738936,No,Yes,No
+Huong Duy Hotel,Sơn Trà,1.0,8.0,75,231000,No,Yes,No
+Maple Suite Hotel,Sơn Trà,0.0,0.0,0,490000,Yes,Yes,No
+Sing Hotel Da Nang,Sơn Trà,2.0,8.4,5,250000,Yes,No,No
+Khách sạn Hoàng Thủy Sinh,Thanh Khê,1.5,9.1,9,241174,No,No,No
+Tamarind Hotel,Ngũ Hành Sơn,3.0,9.3,8,455837,Yes,Yes,Yes
+Khách sạn Bantique,Sơn Trà,3.0,8.3,13,682026,Yes,Yes,Yes
+Vivyanne Hotel,Quận Hải Châu,2.0,7.9,34,300000,No,Yes,No
+Alisia Beach Hotel,Sơn Trà,3.5,8.6,22,1600000,Yes,Yes,Yes
+Bamboo Green Central,Quận Hải Châu,3.0,7.9,45,700000,No,Yes,Yes
+Alyssa Hotel Danang,Sơn Trà,3.0,7.9,16,572000,No,Yes,Yes
+John Boutique Villa Apartment,Sơn Trà,3.0,9.1,54,544343,Yes,Yes,Yes
+Glamour Hotel Da Nang,Sơn Trà,3.5,9.1,7,1000000,Yes,No,Yes
+Hung Anh Hotel,Sơn Trà,3.0,8.7,29,574031,No,Yes,Yes
+Khách sạn Merry Đà Nẵng,Sơn Trà,3.0,8.8,53,1000000,No,Yes,Yes
+Khách sạn Quốc Thiện,Thanh Khê,3.0,8.4,16,625000,Yes,Yes,Yes
+Rio Hotel,Quận Hải Châu,2.0,8.3,44,600000,No,Yes,No
+Starlet Hotel Danang,Ngũ Hành Sơn,3.0,8.4,31,1400000,No,Yes,Yes
+Khách sạn Hoàng Linh,Quận Hải Châu,2.0,8.5,129,350000,No,Yes,No
+Essenza Hotel & Spa,Ngũ Hành Sơn,3.0,8.7,22,450000,No,Yes,Yes
+Meliora Hotel & Apartment,Ngũ Hành Sơn,3.0,8.8,13,410000,Yes,Yes,No
+Khách sạn SOHO Boutique,Sơn Trà,3.0,8.7,128,720000,Yes,Yes,Yes
+Khách sạn Golden Light,Sơn Trà,3.0,8.1,124,1900000,No,Yes,Yes
+Satya Hotel Da Nang,Quận Hải Châu,4.0,8.8,53,775500,Yes,Yes,Yes
+Belle Maison Parosand Danang – managed by H&K Hospitality,Sơn Trà,4.0,9.0,25,411106,Yes,Yes,Yes
+Grand Mango,Ngũ Hành Sơn,3.0,7.9,13,795000,No,Yes,Yes
+Adaline Hotel & Suite,Sơn Trà,3.5,8.7,292,410876,No,Yes,Yes
+Golden Sea 3 Hotel,Sơn Trà,3.0,8.1,32,1180000,Yes,Yes,Yes
+Khách sạn BlueSun,Sơn Trà,4.0,8.6,28,799370,Yes,Yes,Yes
+Khách sạn Brilliant,Quận Hải Châu,4.0,9.0,36,947412,Yes,Yes,Yes
+Khách sạn Titan,Ngũ Hành Sơn,3.0,8.4,83,475554,No,No,Yes
+Royal Family Hotel Da Nang,Sơn Trà,3.0,8.8,147,646444,No,Yes,Yes
+King's Finger Hotel,Sơn Trà,3.0,8.7,130,537581,Yes,Yes,Yes
+Khách sạn Flora,Quận Hải Châu,2.0,8.6,324,357740,No,Yes,Yes
+Fansipan Danang Hotel,Ngũ Hành Sơn,3.0,8.6,123,415487,Yes,Yes,Yes
+Nhat Minh Hotel and Apartment,Ngũ Hành Sơn,3.5,8.2,26,678805,No,Yes,Yes
+Khách sạn Danang Riverside,Sơn Trà,4.0,8.4,82,1760000,No,Yes,Yes
+Khách sạn Night Sky,Quận Hải Châu,2.0,8.8,111,414000,No,Yes,Yes
+Ngoi Nha Xanh Hotel,Quận Hải Châu,2.0,7.4,146,240000,No,Yes,Yes
+Haya Hotel,Ngũ Hành Sơn,3.0,7.9,33,224000,No,Yes,Yes
